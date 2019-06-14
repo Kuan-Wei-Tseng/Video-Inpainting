@@ -5,10 +5,12 @@ Remove a certain moving object in the video sequence using temporal information.
 
 **Limitation**: Fixed Camera, No Overlap Between Dynamic Objects.
 
-### Input Image:
-![](image/badminton_original.bmp)
+### Input Frame:
+
+<img src="image/badminton_orignal.jpg" width="640" height="360" />
+
 
 ### Inpainted Image:
-![](image/badminton_inpainted.bmp)
+<img src="image/badminton_inpainted.jpg" width="640" height="360" />
 
 
